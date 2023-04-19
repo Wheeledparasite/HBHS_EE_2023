@@ -6,18 +6,18 @@ Welcome to the GitHub repository for the HBHS entry in the UCI Energy Invitation
 ## Project Overview
 The project consists of several components, including:
 
-Electrical schematics: These documents show the wiring and connections between the various components in the vehicle, including the motor controller, batteries, and sensors.
+Electrical schematics: These documents show the wiring and connections between the various components in the vehicle, including the motor controller, batteries, and sensors. They were created using [Fritzing](https://fritzing.org/).
 
-Code: The code controls the various systems in the vehicle, including the motor, throttle, brakes, and steering. It is written in C++ and runs on an Arduino microcontroller.
+Code: The code controls the various systems in the vehicle, including the motor, throttle, brakes, and steering. It is written in C++ and runs on an Arduino Nano microcontroller.
 
-CAD drawings: The CAD drawings show the design of the vehicle, including the chassis, body, and other components. They were created using Autodesk Fusion 360.
+CAD drawings: The CAD drawings show the design of the vehicle, including the chassis, body, and other components. They were created using [FreeCAD](https://www.freecad.org/).
 
 Bill of materials: The bill of materials lists all the components used in the vehicle, including part numbers, quantities, and prices.
 
 ## Components of this Repository
 This repository contains various components that we worked on during the 2023 competition:
 
-1. CAD drawings (using [FreeCAD](https://www.freecad.org/)) of various components and parts we needed to manufacture.
+1. CAD drawings of various components and parts we needed to manufacture.
 2. Electrical Schematics and Block Diagrams
 3. Arduino Software for Vehicle #1: Utilizing the [Cytron SmartDrive MDDS60](https://www.cytron.io/p-60amp-7v-45v-smartdrive-dc-motor-driver-2-channels) Motor Driver.
 4. Arduino Software for Vehicle #2: Utilizing the [Cytron MD30C Motor Driver](https://www.cytron.io/c-motor-and-motor-driver/c-motor-driver/p-30amp-5v-30v-dc-motor-driver).
