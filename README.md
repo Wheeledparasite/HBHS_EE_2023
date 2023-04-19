@@ -1,6 +1,8 @@
 # Huntington Beach High Automotive Engineering Club - UCI Energy Invitational 2023
 Welcome to the GitHub repository for the HBHS entry in the UCI Energy Invitational Competition. This project involves building an electric vehicle to compete in an efficiency race. The goal is to create a vehicle that can travel the furthest distance with the least amount of energy, in the shortest amount of time.
 
+![Schematic](electrical/schematic_v2.png)
+
 ## Project Overview
 The project consists of several components, including:
 
